@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\000_works\\05_C#_study\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {}
+    "D:\\000_works\\06_C#_InventoryManagement\\InventoryManagementSoftwere\\InventoryManagement\\InventoryManagement.csproj": {}
   },
   "projects": {
-    "D:\\000_works\\05_C#_study\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {
+    "D:\\000_works\\06_C#_InventoryManagement\\InventoryManagementSoftwere\\InventoryManagement\\InventoryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\000_works\\05_C#_study\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+        "projectUniqueName": "D:\\000_works\\06_C#_InventoryManagement\\InventoryManagementSoftwere\\InventoryManagement\\InventoryManagement.csproj",
         "projectName": "InventoryManagement",
-        "projectPath": "D:\\000_works\\05_C#_study\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+        "projectPath": "D:\\000_works\\06_C#_InventoryManagement\\InventoryManagementSoftwere\\InventoryManagement\\InventoryManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\000_works\\05_C#_study\\InventoryManagement\\InventoryManagement\\obj\\",
+        "outputPath": "D:\\000_works\\06_C#_InventoryManagement\\InventoryManagementSoftwere\\InventoryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,7 +56,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App": {
               "privateAssets": "none"
             }
           },
