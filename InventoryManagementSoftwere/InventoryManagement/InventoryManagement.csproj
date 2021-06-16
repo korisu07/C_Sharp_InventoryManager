@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <UserSecretsId>dfbed224-f99d-407c-a583-c37969c20e0c</UserSecretsId>
+    <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
 </Project>

@@ -18,11 +18,32 @@ namespace InventoryManagement
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class InputScreen : Window
+    public partial class MainWindow : Window
     {
-        public InputScreen()
+        private String RegistProductNumber;
+
+        private String RegistProductName;
+
+        public MainWindow()
         {
             InitializeComponent();
+        }
+
+        // 登録ボタン
+        private void Registration(object sender, RoutedEventArgs e)
+        {
+           this.RegistProductNumber = NumberInputBox.Text.ToString();
+
+           this.RegistProductName = NameInputBox.Text.ToString();
+
+           Preview();
+
+        }
+
+        // 表示
+        private void Preview()
+        {
+            TestPreview.Text = this.RegistProductNumber;
         }
     }
 }
