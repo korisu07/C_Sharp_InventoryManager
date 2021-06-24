@@ -43,7 +43,8 @@ namespace InventoryManagement
         // 表示
         private void Preview()
         {
-            TestPreview.Text = this.RegistProductNumber;
+            String PreviewText = this.RegistProductNumber + "：" + this.RegistProductName;
+            TestPreview.Text = PreviewText;
         }
     }
 }
