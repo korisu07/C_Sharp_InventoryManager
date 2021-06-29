@@ -18,7 +18,7 @@
         <Button Content="新規登録" HorizontalAlignment="Left" Height="36" Margin="182,328,0,0" VerticalAlignment="Top" Width="161" Click="Registration"/>
 
         <Button Content="在庫一覧" HorizontalAlignment="Left" Height="36" Margin="448,328,0,0" VerticalAlignment="Top" Width="162"/>
-        <TextBlock Name="TestPreview" HorizontalAlignment="Center" Height="102" Margin="0,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="583" Text="test"/>
+        <TextBlock Name="TestPreview" HorizontalAlignment="Center" Height="102" Margin="0,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="583" Text="番号：商品名"/>
 
 
 
